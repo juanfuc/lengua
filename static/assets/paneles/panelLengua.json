@@ -1,0 +1,194 @@
+{
+  "inicio": {
+    "imagen": "assets/imgs/montaje/montaje-lengua.jpg",
+    "areas": [
+      {
+        "x": 1573,
+        "y": 2703,
+        "w": 1540,
+        "h": 2896,
+        "btn": "",
+        "tooltip": "",
+        "scene": "nepomuceno"
+      },
+      {
+        "x": 3389,
+        "y": 3071,
+        "w": 1791,
+        "h": 1925,
+        "btn": "",
+        "tooltip": "",
+        "scene": "nepomucenoDetalle"
+      },
+      {
+        "x": 5164,
+        "y": 2704,
+        "w": 1121,
+        "h": 3064,
+        "btn": "",
+        "tooltip": "",
+        "scene": "nepomuceno2"
+      },
+      {
+        "x": 1698,
+        "y": 5985,
+        "w": 1657,
+        "h": 2796,
+        "btn": "",
+        "tooltip": "",
+        "scene": "nepomuceno3"
+      },
+      {
+        "x": 4302,
+        "y": 5993,
+        "w": 2042,
+        "h": 3047,
+        "btn": "",
+        "tooltip": "",
+        "scene": "corteFranela"
+      },
+      {
+        "x": 8238,
+        "y": 2217,
+        "w": 2076,
+        "h": 2829,
+        "btn": "",
+        "tooltip": "",
+        "scene": "sintoma"
+      },
+      {
+        "x": 10665,
+        "y": 2276,
+        "w": 2176,
+        "h": 1707,
+        "btn": "",
+        "tooltip": "",
+        "scene": "caudillo"
+      },
+      {
+        "x": 8002,
+        "y": 4629,
+        "w": 2511,
+        "h": 1590,
+        "btn": "",
+        "tooltip": "",
+        "scene": "laCerca"
+      },
+      {
+        "x": 10866,
+        "y": 4478,
+        "w": 2411,
+        "h": 1624,
+        "btn": "",
+        "tooltip": "",
+        "scene": "hanibal"
+      },
+      {
+        "x": 7961,
+        "y": 6747,
+        "w": 2863,
+        "h": 1942,
+        "btn": "",
+        "tooltip": "",
+        "scene": "maquillaje"
+      },
+      {
+        "x": 10925,
+        "y": 6655,
+        "w": 1959,
+        "h": 2026,
+        "btn": "",
+        "tooltip": "",
+        "scene": "tatuaje"
+      }
+    ]
+  },
+    "nepomuceno": {
+      "imagen": "assets/imgs/0.jpg",
+      "meta": "1",
+      "options": [
+        { "btn": "<<<", "scene": "inicio"}
+      ],
+      "texto": "<a href='https://www.banrepcultural.org/habeas-corpus/' target='_blank'>Ver Habeas Corpus</a><br><br> Un grupo de imágenes sobre el motivo de la lengua reconfigurada, tiene que ver con el pasado colonial de la república colombiana, que permite poner de presente el trasfondo previo a la constitución de un Estado autónomo regido por instituciones democráticas modernas. Esas imágenes se refieren a un mártir ampliamente representado en el barroco neogranadino llamado San Juan Nepomuceno. Ese santo es el patrono del secreto de confesión y según cuenta la tradición se le mutiló la lengua al negarse a dar cuenta de una información que se le había confiado por medio de la confesión. En la iconografía cristiana, es representado con su lengua en la mano o llevándose un dedo a la boca."
+    },
+    "nepomucenoDetalle": {
+      "imagen": "assets/imgs/4.jpg",
+      "meta": "2",
+      "options": [
+        { "btn": "<<<", "scene": "inicio"}
+      ],
+      "texto": "<a href='https://books.google.com.co/books/about/Cuerpo_gramatical.html?id=yqQVAQAAIAAJ&redir_esc=y' target='_blank'>Ver Cuerpo gramatical.</a><br><br>  Era un santo bastante popular en la Nueva Granada, esto lo atestigua el hecho de que hay registro de muchas personas con su nombre . También era importante en la iconografía del periodo, de acuerdo con Jaime Borja era uno de los santos más representados en ese contexto (2002, p. 218); su historia, al ser ampliamente conocida por el público servía para encausar el discurso sobre la mortificación de los sentidos, se representaba sosteniendo “como atributo su lengua en la mano derecha, con lo cual apercibía al creyente sobre el valor del silencio” (2002, p. 152)."
+    },
+    "nepomuceno2": {
+      "imagen": "assets/imgs/5.jpg",
+      "meta": "3",
+      "options": [
+        { "btn": "<<<", "scene": "inicio"}
+      ],
+      "texto": "<a href='http://www.museocolonial.gov.co/colecciones/piezas-del-mes/Paginas/San-Juan-Nepomuceno.aspx' target='_blank'>Ver Pieza del Mes, Museo Santa Clara</a><br><br> ¿Por qué poner a Nepomuceno en este montaje sobre lenguas cercenadas o reconfiguradas? Es evidente que no hay una conexión causal entre las imágenes de la lengua del santo y las de la violencia de los años 50’s. Desde la perspectiva del montaje, no se trata de contar la historia estableciendo cadenas causales entre acontecimientos del pasado con acontecimientos del presente, ni de compartimentar los periodos históricos como pruebas superadas que a su vez han posibilitado el surgimiento de una nueva época. En este caso puede verse la operación como un desplazamiento hacia un pasado que se hace legible sólo desde un tiempo-ahora (jetztzeit) que posibilita esa lectura. Eso quiere decir que son las lenguas cercenadas o reconfiguradas de las violencias actuales o recientes las que preparan las condiciones para la actualidad de Nepomuceno. Es difícil, al investigar sobre el corte de corbata, evitar establecer la relación entre las lenguas de las violencias recientes y la lengua de un santo que plantea el problema del silencio desde un punto de vista diferente, y sin embargo semejante. En el barroco la imagen de un santo con su lengua cercenada pretendía aleccionar, por medio de una escenificación sobre la virtud del silencio . Del mismo modo, en los distintos momentos del conflicto, con la lengua reconfigurada se han querido emitir mensajes sobre la conveniencia de quedarse callado, también por medio de escenificaciones (Blair 2005; Uribe 2004; Diéguez, 2013)."
+    },
+    "nepomuceno3": {
+      "imagen": "assets/imgs/6.jpg",
+      "meta": "4",
+      "options": [
+        { "btn": "<<<", "scene": "inicio"}
+      ],
+      "texto": "<a href='https://arca.uniandes.edu.co/obras/16116' target='_blank'>Ver en ARCA</a><br><br> En la plegaria oficial de San Juan Nepomuceno la virtud del silencio se invoca por medio de una referencia a morderse la lengua . La necesidad del silencio, que amenaza la integridad misma del cuerpo, puede ser entendida como una petición de prudencia: sólo se debe hablar cuando es oportuno. La resistencia a la enunciación da cuenta de un problema en un contexto como el de las políticas de la memoria en el que es necesario contar con la palabra de los testigos, de las víctimas y de los investigadores, quienes en muchas ocasiones seguramente tendrán que morderse la lengua antes que decir lo que piensan o lo que saben, dadas las características amenazantes del contexto social."
+    },
+    "corteFranela": {
+      "imagen": "assets/imgs/7.jpg",
+      "meta": "5",
+      "options": [
+        { "btn": "<<<", "scene": "inicio"}
+      ],
+      "texto":"<a href='https://archive.org/details/laviolenciaencol00guzm_0/page/n183/mode/2up' target='_blank'>Ver La violencia en Colombia: Estudio de un proceso social</a><br><br> En el archivo visual de los cortes de la violencia cuya principal fuente es el texto Guzmán, Fals Borda & Umaña (2005), no hay una fotografía del corte de corbata, sin embargo, hay dos fotografías del corte de franela, que es “una contrarréplica del anterior”, “consiste en una profunda herida en la garganta muy cerca al tronco. La hacen no golpeando, sino corriendo con fuerza un afilado machete sobre la parte anterior del cuello. Casi siempre otra persona levanta la cabeza de la víctima o se la coloca sobre un palo para que el verdugo ejerza su feroz cometido (Guzmán, Fals Borda & Umaña, 2005, p. 248). "
+    },
+    "sintoma": {
+      "imagen": "assets/imgs/9.jpg",
+      "meta": "6",
+      "options": [
+        { "btn": "<<<", "scene": "inicio"}
+      ],
+      "texto":"<a href='https://www.hatjecantz.com/products/15271-cantoscuentos-colombianos' target='_blank'>Ver Cantos cuentos colombianos.</a><br><br>El artista contemporáneo Rosemberg Sandoval, quien ha llevado a cabo dos performances en los que usa la lengua como motivo central. El primero, titulado Síntoma, se trata de unos textos que el artista escribió sobre las paredes de un museo en Guayaquil en 1984, utilizando como instrumento una lengua humana impregnada en sangre. Al respecto de su obra declara el artista: <br><br>'Tenía en mi mano la lengua, la frotaba con fuerza y la pared se la iba comiendo a medida que escribía un texto sobre texto, una palabra encima de la otra. El texto contenía palabras como desaparición, temor, violación, muerte, asesinato. Al final quedaba un inmenso coágulo de retazos de lengua y sangre. El traje que utilicé era de plástico y gasa. Al curador lo echaron' (Herzog 2004, p. 218)."
+    },
+    "caudillo": {
+      "imagen": "assets/imgs/8.jpg",
+      "meta": "7",
+      "options": [
+        { "btn": "<<<", "scene": "inicio"}
+      ],
+      "texto":"<a href='https://goo.gl/bFV93a' target='_blank'>Ver en web del artista.</a><br><br> El segundo performance de Rosembergo Sandoval que usa la lengua como motivo central se llama Caudillo con lengua (2000-2007). Esta acción explora acercamientos alegóricos a los cortes de la violencia configurando una evidente alusión al llamado corte de corbata (Diéguez 2013, p. 127). El performance se realiza en una morgue, es registrado en fotografía y video, y en él, Sandoval posa vestido de negro con la “lengua de un cadáver humano anónimo” enganchada a su cuello. Puede observarse que en ambos performances se problematiza la relación patética de la lengua con el silencio y la violencia; en el primero se trata de una lengua que se desaparece deshaciéndose mientras produce palabras como terror y muerte, y en el segundo de una lengua expuesta en un escenario de mortificación en donde el mutismo es uno de los protagonistas principales. En este caso, la imagen cristaliza una acción escénica por medio de la cual se espera plantear una distancia crítica y reflexiva acerca de las condiciones violentas del país. "
+    },
+    "laCerca": {
+      "imagen": "assets/imgs/1.jpg",
+      "meta": "8",
+      "options": [
+        { "btn": "<<<", "scene": "inicio"}
+      ],
+      "texto":"<a href='https://vimeo.com/39985046' target='_blank'>Ver en Vimeo</a><br><br> En el cortometraje La cerca de Rubén Mendoza (2004) se hace una alusión a este corte en medio de una contienda entre un padre y un hijo . En este caso la reflexión del pathos del silencio es una suerte de actualización de problemas que han tenido lugar desde los años 50`s. Allí se plantea la cuestión del traspaso generacional, la sobrevivencia de los traumas que dejaron las vejaciones sobre los cuerpos y sobre las palabras, en una larga cadena de venganzas y retaliaciones que se heredan generacionalmente . "
+    },
+    "hanibal": {
+      "imagen": "assets/imgs/10.jpg",
+      "meta": "9",
+      "options": [
+        { "btn": "<<<", "scene": "inicio"}
+      ],
+      "texto":"<a href=' https://www.imdb.com/title/tt2373021/plotsummary/' target='_blank'>Ver en HDMI.</a><vr><br> Hay un desplazamiento hacia otras latitudes tanto del motivo iconográfico del corte de corbata, como del silenciamiento que lo cierra simbólicamente. En países como Estados Unidos, México o Argentina la práctica del corte de corbata se conoce como corbata colombiana (colombian necktie) y está asociada a las estrategias de retaliación y de intimidación de los narcotraficantes. Al parecer este nombre se acuñó debido a la creencia de que era un método utilizado por el narcotraficante colombiano Pablo Escobar. La penetración de dicha práctica en la cultura popular estadounidense es tal que, atestiguando la banalización a la que son sometidas las imágenes de la violencia, ha aparecido referenciada por los personajes de un buen número de series televisivas y se ha convertido en un diseño de tatuaje y de maquillaje para disfraz de Halloween "
+    },
+    "maquillaje": {
+      "imagen": "assets/imgs/2.jpg",
+      "meta": "10",
+      "options": [
+        { "btn": "<<<", "scene": "inicio"}
+      ],
+      "texto":"<a href='https://goo.gl/GRLKIo' target='_blank'>Ver en web.</a>"
+    },
+    "tatuaje": {
+      "imagen": "assets/imgs/3.jpg",
+      "meta": "11",
+      "options": [
+        { "btn": "<<<", "scene": "inicio"}
+      ],
+      "texto":"<a href='https://goo.gl/G7HHUY' target='_blank'>Ver en web.</a>"
+    }
+}
