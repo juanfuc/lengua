@@ -19,23 +19,27 @@
 </script>
 
 <div class="contenedor-general">
-    <header class="header"><div id="titulo"><h1>Montaje del Corte de Corbata</h1></div><nav class="textos-menu"><Selector {secciones} bind:pagina/></nav></header>
+    <header class="header">
+        <div id="titulo">
+            <h1>Montaje del Corte de Corbata</h1>
+        </div>
+            <nav class="textos-menu"><Selector {secciones} bind:pagina/>
+        </nav>
+    </header>
    <div class="contenido">
-    <div class="panel">
-        {#if pagina == 0 && mostrarPanelLengua}
-            <PanelLengua/>
-        {/if}
-    </div>
 
         <div class="contenedor-menu">
-        <!-- svelte-ignore empty-block -->
-        {#if pagina == 0}
-            <Panel/>
-        {:else if  pagina == 1}
-           <Sobre/>
-        {:else if pagina == 2}
-            <Teoria/>
-        {/if}
+        
+        {#if pagina == 0 && mostrarPanelLengua}
+                <PanelLengua/>
+            {/if}
+            {#if pagina == 0}
+                <Panel/>
+            {:else if  pagina == 1}
+                <Sobre/>
+            {:else if pagina == 2}
+                <Teoria/>
+            {/if}
         </div>
     </div>
 </div>
@@ -103,8 +107,15 @@
         .textos-menu {
             font-size: 0.6em; /* Ajusta el tamaño del texto del menú para móviles */
             display: flex;
-            justify-content: space-between;
+            justify-content: space-around;
+            width: 100%;
+
         }
+
+        .contenedor-menu {
+        margin-top: 8%;
+        width: 100%; /* Asegura que el contenido ocupe todo el ancho en dispositivos móviles */
+    }
     
     }
     

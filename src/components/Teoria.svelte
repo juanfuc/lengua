@@ -91,7 +91,15 @@
       max-width: 100%;
       padding: 3vw;
     }
-      }
-    
+
+    .img-montaje {
+        flex-direction: column; /* Cambiar de fila a columna para las imágenes */
+    }
+
+    .img-montaje img {
+        width: 100%; /* Asegurarse de que las imágenes ocupen el 100% del ancho en dispositivos móviles */
+        margin-bottom: 10px; /* Añadir un espacio entre las imágenes */
+    }
+}
     </style>
     
