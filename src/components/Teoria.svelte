@@ -54,6 +54,8 @@
 
         .container img {
             width: 100%;
+            max-width: 100%;
+            height: auto;
         }
     
         h1 {
@@ -84,6 +86,10 @@
             width: 100%;
             justify-content: space-between;
         }
+        .img-montaje img {
+            width: 48%;
+        }
+        
     @media (max-width: 768px) {
 
     
