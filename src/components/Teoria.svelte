@@ -1,7 +1,5 @@
 <script>
     import PanelLengua from "./Panel-lengua.svelte";
-
-
 </script>
 
 <div class="container">
@@ -15,7 +13,7 @@
     <p>El montaje entonces abarca un gran número de prácticas espectaculares, plásticas y literarias y representa una actitud determinada hacia la relación entre la parte y el todo que todavía está por determinar de manera íntegra. Desde este punto de vista del montaje, no es posible hablar de “la” imagen, sino de imágenes múltiples, parciales, desiguales y fragmentarias; imágenes que adecuadamente dispuestas pueden ocasionar choques dinámicos que dan lugar a relámpagos fugaces de inteligibilidad. Más allá de los alegatos que reducen a las imágenes a mercancías, simulacros o ídolos, el procedimiento del montaje establece relaciones teniendo en cuenta la estructura frágil y difícil de las imágenes, mientras trata de buscar sentidos con base en el establecimiento de variados tipos de correspondencias visuales, a partir de las cuales es posible pensar al mismo tiempo diferentes épocas históricas y diferentes contextos de producción y de recepción.</p>
     <img src="https://terceraorbita.com/wp-content/uploads/2022/11/VERTOV.png" alt="Vertov">
     <p>Hay dos características básicas que se destacan en la presentación de este procedimiento. En primer lugar, la importancia con la que son tratados −desde un punto de vista epistemológico− los fenómenos particulares, los cuales no son agrupados bajo operaciones inductivas ni deductivas sino más bien de naturaleza “ejemplar” o “paradigmática”. De este modo, al tratar cada imagen como un singular, el montaje puede hacer visibles las diferencias de sentido que van de una imagen a otra y ponerlas en tensión. En segundo lugar, el hecho de que permite encontrar semejanzas en estas diferencias para establecer correspondencias entre los diferentes contextos históricos y geográficos en los que las imágenes han sido producidas. Así, el montaje posibilita una presentación de la historia que muestre las semejanzas y diferencias entre ciertas prácticas y acontecimientos de distintas épocas, e impugne las presentaciones prefiguradas de la sucesión de los hechos históricos, de acuerdo con las cuales la historia se dirige de modo inexorable al mejor de los mundos posibles o a una inevitable catástrofe. Es decir, los problemas acerca de cómo poner en relación los diferentes elementos del archivo implican, a la vez, una específica concepción de la temporalidad que trata de definirse por oposición al modo lineal y prefigurado de entender el tiempo histórico.</p>
-    <p><img class='panel'src='https://www.engramma.it/eOS/resources/images/1046/T46_800.jpg' alt='Panel 46 del Atlas Mnemosyne'></p><h5>Atlas Mnemosyne. <a href='https://www.engramma.it/eOS/core/frontend/eos_atlas_index.php?id_tavola=1046' target='_blank'>Panel 46</a>: Ninfa. 'Date prisa, tráelo' en el círculo Tornabuoni. Domesticación</h5>
+    <p><img class='panel'src='https://www.engramma.it/eOS/resources/images/1046/T46_HD.jpg' alt='Panel 46 del Atlas Mnemosyne'></p><h5>Atlas Mnemosyne. <a href='https://www.engramma.it/eOS/core/frontend/eos_atlas_index.php?id_tavola=1046' target='_blank'>Panel 46</a>: Ninfa. 'Date prisa, tráelo' en el círculo Tornabuoni. Domesticación</h5>
     <h2>Sobre las imágenes de la violencia en Colombia</h2>
     <p>Existe un abundante archivo de imágenes acerca de la violencia en Colombia, que puede ser organizado de diferentes maneras atendiendo a sus relaciones temáticas, morfológicas y gestuales. Dentro de todas esas posibilidades de organización se puede mencionar una iconografía bastante patética, que da cuenta de las diferentes técnicas de desmembramiento y mutilación, en las cuales el cuerpo humano es sometido a una serie de transformaciones que se efectúan con instrumentos cortantes como cuchillos, puñales y machetes. Esos cortes fueron practicados principalmente en la época de la violencia bipartidista. Sin embargo, diferentes estudios muestran que ya desde el siglo XIX se llevaban a cabo prácticas similares y que persisten aún en la actualidad en los procedimientos de los diferentes actores del conflicto</p>
     <div class="img-montaje"><img src='https://www.banrepcultural.org/historia-natural-politica/images/flora/quijano01.jpg' alt='Quijano'/><img src='https://estonoescritica.files.wordpress.com/2020/07/el-martirio-agiganta-a-los-hombres-rac3adz.1966.png?w=875' alt='Alccantara'/></div>
@@ -89,7 +87,7 @@
         .img-montaje img {
             width: 48%;
         }
-        
+
     @media (max-width: 768px) {
 
     

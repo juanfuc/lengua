@@ -23,8 +23,9 @@
         <div id="titulo">
             <h1>Montaje del Corte de Corbata</h1>
         </div>
-            <nav class="textos-menu"><Selector {secciones} bind:pagina/>
-        </nav>
+            <nav class="textos-menu">
+                <Selector {secciones} bind:pagina/>
+            </nav>
     </header>
    <div class="contenido">
 
