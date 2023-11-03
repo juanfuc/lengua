@@ -33,7 +33,7 @@
       const a = new $aventura1('es', options);
       console.log(pathEscenas);
       const escenas = await a.cargarJSON(pathEscenas);
-      const datos = await d3.csv('https://docs.google.com/spreadsheets/d/e/2PACX-1vRH06KxqlH617vHfDLckfOm2EJ45eKG6YNzgErm2ZAj-H6QolFqaLXW0wKaqe83SkXdKWrh6mMK-OBu/pub?output=csv', (d => ({
+      const datos = await d3.csv('https://docs.google.com/spreadsheets/d/e/2PACX-1vSBgKPIeBgDxdkT2laFTEwaN1FkEFVxW9tTVsPj1qiVXgSBIluJwKIHXSDva52ST1RQQvkeC7lMCCxl/pub?output=csv', (d => ({
             ...d,
             ID: d.n,
             IMGURL: path + d.src,
